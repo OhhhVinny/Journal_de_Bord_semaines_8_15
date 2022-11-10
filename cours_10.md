@@ -1,4 +1,4 @@
-# Cours 10
+# Cours 10 (N.A car absent)
 ## Retour sur la visite de SidLee et PixMob
 
 ### Intérêt
