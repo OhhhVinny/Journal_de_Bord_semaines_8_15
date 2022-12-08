@@ -3,7 +3,7 @@
 
 ### Points forts
 
-Les deux points forts de ma présentation est selon moi la clareté des démonstrations ainsi que la vitesse de mes explications.
+Les deux points forts de ma présentation est selon moi la clarté des démonstrations ainsi que la vitesse de mes explications.
 
 ### Points à améliorer
 
