@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Jeu de tir à la première personne.   
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
