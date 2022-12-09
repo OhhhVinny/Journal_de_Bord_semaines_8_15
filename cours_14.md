@@ -6,16 +6,24 @@ Durée: 8 à 10 minutes
 Jeu de tir à la première personne.   
 
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Notre projet est un jeu de tir à la première personne. Ce jeu est composé d'une campagne ainsi qu'un open world gigantesque qui permet une exploration suite à l'histoire. Le jeu est free-to-play avec des microtransactions d'apparences ce qui sera la source de revenue du projet.
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+ ![Screenshot 2022-12-08 212103](https://user-images.githubusercontent.com/112128292/206610722-7fe49c2d-8942-4ffe-b369-a005cb44b88b.jpg)
+
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+![moodboard visuels](https://user-images.githubusercontent.com/112128292/206613325-0c2a3a91-4b58-4a59-b33c-776eaf371231.jpg)
 
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+-Programmeurs
+-Graphiste
+-Animateur 3D
+-Game designer
+-Designer de niveaux
+-Designer de la trame sonore
+-Scénariste
+-Programmeur moteur
+-Chef de projet
+-Modeleur 3D
